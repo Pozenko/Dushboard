@@ -1,0 +1,54 @@
+/*HEADER*/
+.navbar_menu{
+	margin: 0;
+}
+.navbar_menu li{
+	display:inline-block;
+}
+.navbar_menu a{
+	line-height: 2.1em;	
+}
+.dropdown_menu_width li{
+	width:300px;
+}
+.dropdown-menu div{
+	white-space: normal;
+}
+.progress{
+	margin-top: 10px;
+}
+.dropdown_alerts{
+	margin-left: -120px;
+}
+/*Dashboard*/
+.dashboard{
+	margin-top: 20px;
+	
+}
+.panel{
+	padding: 0;
+	margin-bottom: 30px;
+}
+.icon_size{
+	font-size: 50px;
+	margin-top: 10px;
+
+}
+.panel_height{
+	height: 100px;
+}
+.panel_green{
+	border-color: #5cb85c;
+	background: #5cb85c;
+	color:white;
+} 
+.panel_yellow {
+	border-color: #f0ad4e;
+	background: #f0ad4e;
+	color:white;
+}
+.panel_red {
+	border-color: #d9534f;
+	background: #d9534f;
+	color:white;
+}
